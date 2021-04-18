@@ -6,5 +6,5 @@
 
 # Required Packages
 
-- PyAudio
-- pyttsx3
+- [PyAudio](https://pypi.org/project/PyAudio/)
+- [pyttsx3](https://pypi.org/project/pyttsx3/)
