@@ -6,7 +6,5 @@
 
 # Required Packages
 
- **
- 1. PyAudio
- 2. pyttsx3
- **
+**1. PyAudio
+ 2. pyttsx3**
