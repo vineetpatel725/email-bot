@@ -2,7 +2,7 @@
 
  Bot that send the email automatically
 
-**This bot is written to send the email automatically. Bot will ask you to who to email.**
+**This bot is written to send the email automatically. All you need to do is sign in to your account. Bot will ask you to who to email.**
 
 # Required Packages
 
